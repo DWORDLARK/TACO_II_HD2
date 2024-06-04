@@ -144,7 +144,6 @@ DD.MM.YYYY
 ----------------------------------------------------------------------------------------
 31.07.2023 (v2.0.6.2)
 *some variables moved to global
-+Memory documentation added (dev folder Memory.txt)
 ----------------------------------------------------------------------------------------
 27.09.2023 (v2.0.6.5)
 +Screenshot function returns...just like Batman.
