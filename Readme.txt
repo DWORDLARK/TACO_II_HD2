@@ -228,4 +228,4 @@ Program created with: Embarcadero RAD Studio XE4 / Embarcadero RAD Studio 10.2
 
 
 
-Loose lips sink shipt !
+Loose lips sink ships !
