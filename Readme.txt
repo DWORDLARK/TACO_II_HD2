@@ -25,8 +25,8 @@ TACO_II
 ----------------------------------------------------------------------------------------
 	Hotkeys to control Camera:
 ----------------------------------------------------------------------------------------
-			SHIFT+F Disconnect camera from players position (enables free camera)
-			SHIFT+R Restore camera to players position (Turns spectator mode OFF)
+			F1 Disconnect camera from players position (enables free camera)
+			F2 Restore camera to players position (Turns spectator mode OFF)
 				
 			SHIFT+W Move to North (North direction on Map)	
 			SHIFT+S Move to South
@@ -35,19 +35,22 @@ TACO_II
 			SHIFT+E Move Up
 			SHIFT+Q Move Down
 
-			SHIFT+Z Turn automatic spectator mode(automatic fly mode) ON/OFF (Usable after SHIFT+F is pressed)
+			SHIFT+Z Turn automatic spectator mode(automatic fly mode) ON/OFF 
+				(Usable after F1 is pressed)
 			SHIFT+X (Press once or HOLD): Move Camera one step/many steps.
 
 			SHIFT+M		Camera Mouse input ON-OFF:	
 			SHIFT+V		Camera Up/Down ON-OFF:		
 			SHIFT+H		Camera Derection ON-OFF:	
 
-			SHIFT+I 	In-Game Graphic Interface:  Turns gi on/off     In-Game Console command: 
+			SHIFT+I 	In-Game Graphic Interface:  Turns gi on/off     
+					In-Game Console command: 
 								no_gi 0		Off
 								no_gi 1		On
 
 				
-			***Spectator mode (automatic fly mode) is controlled by mouse movement, aimed to the desired direction.
+			***Spectator mode (automatic fly mode) is controlled by mouse movement, 
+				aimed to the desired direction.
 				(Left-Right / Up-Down) @speed controlled by STEP SIZE.
 
 			SHIFT+G   Turn camera floating ON/OFF
@@ -68,31 +71,24 @@ TACO_II
 				Save: ALT+1,ALT+2,ALT+3,ALT+4,ALT+5,ALT+6,ALT+7,ALT+8,ALT+9
 				Load: CTRL+1,CTRL+2,CTRL+3,CTRL+4,CTRL+5,CTRL+6,CTRL+7,CTRL+8,CTRL+9
 
-			***All functions under Player/Camera require running of H&D Game.(Player must be in mission) 
-				(Program detects if the game is active and program can be launched before Game is running)
+			***All functions under Player/Camera require running of H&D Game.
+				(Player must be in mission) 
+				(Program detects if the game is active and program can be launched before 					Game is running)
 			
 			***All Camera functions work only if Player has no weapon in hand !!!
 	
 	Checkbox: Set Mouse Speed H
 	Checkbox: Set Mouse Speed V
 			User can select custom settings for mouse horisontal / vertical 
-			speed for Unlocked camera mode (SHIFT+F)
+			speed for Unlocked camera mode (F1)
 				Sensitivity value 200 is mostly normal.
 				Lower value means faster speed !
 
-			***Mouse sensitivity settings will reset after (SHIFT+R) is pressed.
+			***Mouse sensitivity settings will reset after (F2) is pressed.
 				TACO program reads game mouse setting only one time if game is present.
 				If Mouse sensitivity settings are changed in game settings menu	then
-				Mouse sensitivity will be reset to old value (SHIFT+R).
+				Mouse sensitivity will be reset to old value (F2).
 
-
-
-	Screenshot:	CTRL+S
-			Image is saved as BMP format.
-				
-
-
-				
 
 ----------------------------------------------------------------------------------------
 StatusBar:
@@ -149,9 +145,18 @@ DD.MM.YYYY
 +Screenshot function returns...just like Batman.
 ----------------------------------------------------------------------------------------
 04.06.2024 (v2.0.7.1)
-
 Style selection removed.
+
 ----------------------------------------------------------------------------------------
+10.01.2025 (v2.0.7.2)
+Hotkey function changed
+	(Hotkey does not hold Key priority for TACO)
+	(User can type Upper-case letters)
+
+
+
+
+
 
 
 
