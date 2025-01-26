@@ -73,8 +73,8 @@ TACO_II
 				Load: CTRL+1,CTRL+2,CTRL+3,CTRL+4,CTRL+5,CTRL+6,CTRL+7,CTRL+8,CTRL+9
 
 			***All functions under Player/Camera require running of H&D Game.
-				(Player must be in mission) 
-				(Program detects if the game is active and program can be launched before 					Game is running)
+			(Player must be in mission) 
+			(Program detects if the game is active and program can be launched before Game is running)
 			
 			***All Camera functions work only if Player has no weapon in hand !!!
 	
