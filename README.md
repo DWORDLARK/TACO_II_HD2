@@ -7,6 +7,9 @@ TACO_II
 	All changes made by this program are not permanent !
 	All changes will be lost / reset after target proccess(game) is closed.
 
+ 	It might be necessary to run this program with ADMIN rights
+  	or change compatibility settings. 
+
 ----------------------------------------------------------------------------------------
 	Player/Camera
 ----------------------------------------------------------------------------------------
