@@ -118,15 +118,30 @@ TACO_Settings.ini:
 				C:\Program Files (x86)\Ilusion Softworks\Hidden & Dangerous 2\HD2_SabreSquadron.exe
 
 
+		User can insert 8 servers for direct Join from GAME menu.
+
+		Each server [Server_1] to [Server_8] has parameters:
+		IP_PORT=    	IP and main connection PORT, separated by ':'
+		Name=		Name of server
+
+
+   		Example:
+     
+		[Server_1]
+		IP_PORT=186.50.192.10:40001
+		Name=CO-Op server
+
 
 
 
 
 
 DD.MM.YYYY
+
 ----------------------------------------------------------------------------------------
 29.07.2022    TACO_II
 	All mod functions are discontinued
+ 
 ----------------------------------------------------------------------------------------
 2.Dec.2022
 +Hotkey functions changed.
@@ -162,6 +177,13 @@ Style selection removed.
 Hotkey function changed
 	(Hotkey does not hold Key priority for TACO)
 	(User can type Upper-case letters)
+ 
+----------------------------------------------------------------------------------------
+31.01.2025 (v2.0.7.4)
+
+Direct connect (Join server) added
+
+----------------------------------------------------------------------------------------
 
 
 
@@ -172,8 +194,7 @@ Hotkey function changed
 
 
 
-
-
+.
 ----------------------------------------------------------------------------------------
 Coded by LARK_1
 
